@@ -67,6 +67,11 @@ I am a third-year Information Technology student with a strong interest in IT Su
 ---
 
 # 📂 Projects
+### 🔹 Multi-VLAN Router and Switch Configuration
+
+Designed and implemented a multi-VLAN network using Cisco Packet Tracer. Configured VLANs, trunking, Router-on-a-Stick, and DHCP for automatic IP address assignment.
+
+**View Project:** [Multi-VLAN Router and Switch Configuration](projects/vlan-dhcp-router-configuration.md)
 
 ## Active Directory Lab
 Configured:
